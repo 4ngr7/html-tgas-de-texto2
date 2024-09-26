@@ -1,0 +1,19 @@
+h1{
+    color: blue;
+}
+
+.titulo{
+    color: red;
+    background-color: aqua;
+}
+.fag{
+    background-color: red;
+    width: 80%;
+    margin: 0 auto;
+    list-style: none;
+}
+.fag li{
+    background-color: #0000;
+    padding: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
